@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   frontend:
-    container_name: cicd-saicharan
+    container_name: Shubham-Tamboli
     build:
       context: .
       dockerfile: dockerfile
